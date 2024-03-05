@@ -19,7 +19,8 @@
 ![](https://komarev.com/ghpvc/?username=Ryuleh)
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
+
 
 Here are some ideas to get you started:
 
