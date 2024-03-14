@@ -21,10 +21,10 @@
 
 [![](https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on a JavaScript ChatGPT API Project
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on projects and teaming up in hackathons
-- 🤔 I’m looking for help with Mock Interviews (Technical & Behavioral) and finding a job
+- 🧑‍💻 I’m currently working on a JavaScript ChatGPT API Project
+- ⚛️ I’m currently learning React
+- 🤝 I’m looking to collaborate on projects and teaming up in hackathons
+- 🤔I’m looking for help with Mock Interviews (Technical & Behavioral) and finding a job
 - 💬 Ask me about My Projects
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
 - ⚡ Fun fact: I am a self-taught programmer who graduated with a business management degree from Stony Brook University
