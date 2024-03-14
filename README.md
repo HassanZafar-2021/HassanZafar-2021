@@ -28,4 +28,3 @@
 - 💬 Ask me about My Projects
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
 - ⚡ Fun fact: I am a self-taught programmer who graduated with a business management degree from Stony Brook University
-d
