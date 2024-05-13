@@ -1,5 +1,12 @@
 # Ryuleh's Github profile
----
+- 🧑‍💻 I’m currently working on a JavaScript ChatGPT API Project
+- ⚛️ I’m currently learning React
+- 🤝 I’m looking to collaborate on projects and teaming up in hackathons
+- 🤔I’m looking for help with Mock Interviews (Technical & Behavioral) and finding a job
+- 💬 Ask me about My Projects
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
+- ⚡ Fun fact: I am a self-taught programmer who graduated with a business management degree from Stony Brook University
+
 
 # Lanugages known
 
@@ -20,11 +27,3 @@
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 [![](https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
-
-- 🧑‍💻 I’m currently working on a JavaScript ChatGPT API Project
-- ⚛️ I’m currently learning React
-- 🤝 I’m looking to collaborate on projects and teaming up in hackathons
-- 🤔I’m looking for help with Mock Interviews (Technical & Behavioral) and finding a job
-- 💬 Ask me about My Projects
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
-- ⚡ Fun fact: I am a self-taught programmer who graduated with a business management degree from Stony Brook University
