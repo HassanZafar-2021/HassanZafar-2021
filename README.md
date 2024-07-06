@@ -1,11 +1,11 @@
 # Ryuleh's Github profile
-- 🧑‍💻 I’m currently working on a JavaScript ChatGPT API Project
-- ⚛️ I’m currently learning React
-- 🤝 I’m looking to collaborate on projects and teaming up in hackathons
-- 🤔I’m looking for help with Mock Interviews (Technical & Behavioral) and finding a job
+- 🧑‍💻 My biggest and hardest project completed is the AskGemni Project
+- ⚛️ Currently learning React
+- 🤝 Looking to collaborate on projects and teaming up in hackathons
+- 🤔 Doing Mock Interviews (Technical & Behavioral) - Please reach out as I am seeking a computer programmer/software engineer job.
 - 💬 Ask me about My Projects
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
-- ⚡ Fun fact: I am a self-taught programmer who graduated with a business management degree from Stony Brook University
+- ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University 
 
 
 # Lanugages known
