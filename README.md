@@ -27,3 +27,7 @@
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 [![](https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
+
+![Cat Typing](https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif)
+
+
