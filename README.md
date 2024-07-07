@@ -28,6 +28,7 @@
 
 [![](https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
 
-![Cat Typing](https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif)
+![Animated Coding](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+
 
 
