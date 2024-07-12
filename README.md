@@ -1,11 +1,12 @@
 # Ryuleh's Github profile
-- 🧑‍💻 My biggest and hardest project completed is the AskGemni Project
+- ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University
+- - 💬 Ask me about My Projects
+- 🧑‍💻 My most significant and challenging project to date is the AskGemni Project
 - ⚛️ Currently learning React
 - 🤝 Looking to collaborate on projects and teaming up in hackathons
-- 🤔 Doing Mock Interviews (Technical & Behavioral) - Please reach out as I am seeking a computer programmer/software engineer job.
-- 💬 Ask me about My Projects
+- 🤔 Doing Mock Interviews (Technical & Behavioral) - Please reach out as I seek a computer programmer/software engineer job.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
-- ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University 
+ 
 
 
 # Lanugages known
