@@ -1,4 +1,4 @@
-# Ryuleh's Github profile
+# Ryuleh's Profile
 - ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University.
 - 💬 Ask me about my projects.
 - 🧑‍💻 My most significant and challenging project up to date is the AskGemni project.
