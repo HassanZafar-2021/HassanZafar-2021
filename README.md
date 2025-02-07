@@ -1,4 +1,4 @@
-# Ryuleh's Profile
+# HassanZafar-2021's Profile
 - ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University.
 - 💬 Ask me about my projects.
 - 🧑‍💻 My most significant and challenging project up to date is the AskGemni project.
@@ -8,8 +8,7 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
  
 
-
-# Lanugages known
+# Languages Known
 
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql)
@@ -20,16 +19,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-green?logo=css3)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuleh&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanZafar-2021&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuleh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanZafar-2021&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=Ryuleh)
+![](https://komarev.com/ghpvc/?username=HassanZafar-2021)
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-[![](https://streak-stats.demolab.com/?user=Ryuleh&theme=dark)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=HassanZafar-2021&theme=dark)](https://git.io/streak-stats)
 
 ![Animated Coding](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
-
-
-
