@@ -1,7 +1,7 @@
 # HassanZafar-2021's Profile
 - ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University.
 - 💬 Ask me about my projects.
-- 🧑‍💻 My most significant and challenging project up to date is the AskGemni project.
+- 🧑‍💻 My most significant and challenging project is the AskGemni project.
 - ⚛️ Currently learning React.
 - 🤝 Looking to collaborate on projects and teaming up in hackathons.
 - 🤔 Doing Mock Interviews (Technical & Behavioral) - please reach out as I seek a computer programmer/software engineer job.
