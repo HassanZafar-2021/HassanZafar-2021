@@ -1,4 +1,4 @@
-# HassanZafar-2021's Profile
+# Hassan Zafar's Profile
 - ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University.
 - 💬 Ask me about my projects.
 - 🧑‍💻 My most significant and challenging project is the AskGemni project.
