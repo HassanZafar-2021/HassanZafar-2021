@@ -1,10 +1,10 @@
 # Hassan Zafar's Profile
-- ⚡ Fun fact: I am a self-taught programmer with a business management degree from Stony Brook University.
+- ⚡ Fun fact: I’m majoring in Computer Science, have completed a coding bootcamp, and already hold a degree in Business Management.
 - 💬 Ask me about my projects.
 - 🧑‍💻 My most significant and challenging project is the AskGemni project.
 - ⚛️ Currently learning React.
-- 🤝 Looking to collaborate on projects and teaming up in hackathons.
-- 🤔 Doing Mock Interviews (Technical & Behavioral) - please reach out as I seek a computer programmer/software engineer job.
+- 🤝 Looking to collaborate on projects and team up in hackathons.
+- 🤔 Doing Mock Interviews (Technical & Behavioral) - please reach out as I seek a software engineer job/internship.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
  
 
