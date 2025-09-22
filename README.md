@@ -8,16 +8,19 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
  
 
-# Languages Known
+# Technologies Known
 
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java)
-![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql)
-![C++](https://img.shields.io/badge/-C++-purple?logo=c%2B%2B)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+![C](https://img.shields.io/badge/-C-lightgrey?logo=c)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-green?logo=css3)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanZafar-2021&show_icons=true&theme=dracula)
 
