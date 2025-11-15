@@ -1,5 +1,5 @@
 # Hassan Zafar's Profile
-- ⚡ Fun fact: I’m majoring in Computer Science as a post-bacc student, graduated from a coding bootcamp, and already hold a bachelor's degree in Business Management.
+- ⚡ Fun Fact: I’m majoring in Computer Science as a post-bacc student, graduated from a coding bootcamp, and already hold a bachelor's degree in Business Management.
 - 💬 Ask me about my projects.
 - 🧑‍💻 My most significant and challenging project is the AskGemni project.
 - ⚛️ Currently learning React.
