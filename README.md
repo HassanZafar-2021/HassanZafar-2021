@@ -22,9 +22,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-green?logo=css3)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanZafar-2021&show_icons=true&theme=dracula&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HassanZafar-2021&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanZafar-2021&layout=compact&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HassanZafar-2021&layout=compact&cache_seconds=86400)
 
 ![](https://komarev.com/ghpvc/?username=HassanZafar-2021)
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
