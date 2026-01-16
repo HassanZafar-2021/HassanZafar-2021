@@ -31,4 +31,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HassanZafar-2021&color=blueviolet)
 
-![Animated Coding](https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
