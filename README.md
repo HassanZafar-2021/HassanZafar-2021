@@ -20,13 +20,12 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanZafar-2021&show_icons=true&theme=dracula&hide_border=true)
+![GitHub stats](https://github-readme-stats-teal-eight-94.vercel.app/api?username=HassanZafar-2021&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanZafar-2021&layout=compact&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats-teal-eight-94.vercel.app/api/top-langs/?username=HassanZafar-2021&layout=compact&theme=dracula&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HassanZafar-2021&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
