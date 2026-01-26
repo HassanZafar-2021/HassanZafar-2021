@@ -27,8 +27,6 @@
 
 ![Top Langs](https://github-readme-stats-teal-eight-94.vercel.app/api/top-langs/?username=HassanZafar-2021&layout=compact&theme=dracula&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanZafar-2021&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=HassanZafar-2021&color=blueviolet)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
