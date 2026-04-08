@@ -2,10 +2,10 @@
 
 - ⚡ Fun Fact: I'm majoring in Computer Science as a post-bacc student, graduated from a coding bootcamp, and already hold a bachelor's degree in Business Management.
 - 💬 Ask me about my projects.
-- 🧑‍💻 My most significant and challenging project is the AskGemni project.
+- 🧑‍💻 My most significant and challenging project is Mira.
 - ⚛️ Currently learning React.
 - 🤝 Looking to collaborate on projects and team up in hackathons.
-- 🤔 Doing Mock Interviews (Technical & Behavioral) - please reach out as I seek a software engineer job/internship.
+- 🤔 Doing Mock Interviews (Technical & Behavioral) - please reach out to me as I seek a software engineer job/internship.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hassanz-/)
 
 ## Technologies Known
