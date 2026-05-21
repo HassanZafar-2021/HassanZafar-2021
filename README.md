@@ -35,9 +35,17 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
+**Backend**
+
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?logo=postman&logoColor=white)
+
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
@@ -45,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HassanZafar-2021&theme=dracula&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HassanZafar-2021&theme=dracula&hide_border=true&cachebuster=1" />
 </p>
 
 <p align="center">
