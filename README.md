@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HassanZafar-2021&theme=dracula&hide_border=true&cachebuster=1" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=HassanZafar-2021&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
